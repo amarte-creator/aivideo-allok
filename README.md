@@ -1,30 +1,48 @@
-# Modern Agency Website - Liquid 
+# Allok Agency Website
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+A modern, responsive agency website built with Next.js, TypeScript, and Tailwind CSS.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/allokfun-7758s-projects/v0-modern-agency-website-liquid)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/KCGPJN1x3Yr)
+## Features
 
-## Overview
+- Modern, responsive design
+- Next.js 14 with App Router
+- TypeScript for type safety
+- Tailwind CSS for styling
+- Radix UI components
+- Video integration
+- Contact forms and interactive elements
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## Tech Stack
+
+- **Framework**: Next.js 14
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **UI Components**: Radix UI
+- **Deployment**: Vercel
+
+## Getting Started
+
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
+
+## Project Structure
+
+- `app/` - Next.js App Router pages and layouts
+- `components/` - Reusable React components
+- `lib/` - Utility functions and configurations
+- `public/` - Static assets (images, videos, icons)
+- `styles/` - Global CSS styles
 
 ## Deployment
 
-Your project is live at:
-
-**[https://vercel.com/allokfun-7758s-projects/v0-modern-agency-website-liquid](https://vercel.com/allokfun-7758s-projects/v0-modern-agency-website-liquid)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/KCGPJN1x3Yr](https://v0.app/chat/projects/KCGPJN1x3Yr)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+The project is configured for easy deployment on Vercel. Simply connect your GitHub repository to Vercel for automatic deployments.
