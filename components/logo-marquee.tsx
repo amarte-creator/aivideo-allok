@@ -11,11 +11,9 @@ export function LogoMarquee() {
   const logos = [
     { name: "Intel", content: "intel", color: "text-neutral-300" },
     { name: "MongoDB", content: "🟢", color: "text-green-500" },
-    { name: "Skitbit", content: "image", color: "text-neutral-300", image: "/images/skitbit-subtle-logo.png" },
     { name: "VK", content: "VK", color: "text-white", bg: "bg-blue-500" },
     { name: "TechCrunch", content: "TC", color: "text-neutral-300" },
     { name: "MailChimp", content: "🐵", color: "text-yellow-500" },
-    { name: "ESJ", content: "image", color: "text-neutral-300", image: "/images/esj-subtle-logo.png" },
     { name: "Kickstarter", content: "K", color: "text-white", bg: "bg-green-500" },
   ]
 

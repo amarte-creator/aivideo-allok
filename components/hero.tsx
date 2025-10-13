@@ -127,11 +127,13 @@ const phoneData = [
     sub: "Be the brand no one scrolls past.",
     tone: "standout",
     gradient: "from-[#0b0b0b] via-[#1f2937] to-[#0b1220]",
+    videoSrc: "/videos/The_universal_oreo_202510121401_ekx9r.mp4",
   },
   {
     title: "Premium",
     sub: "Look like the market leader.",
     tone: "premium",
     gradient: "from-[#0b0b0b] via-[#111827] to-[#052e16]",
+    videoSrc: "/videos/Video_prompt_for_202510121403_b66wa.mp4",
   },
 ]
