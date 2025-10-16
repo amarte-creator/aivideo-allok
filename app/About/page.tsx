@@ -18,6 +18,7 @@ export default function AboutPage() {
       {
         "@type": "ContactPoint",
         telephone: "+1-555-555-5555",
+        email: "hi@allok.fun",
         contactType: "customer service",
       },
     ],

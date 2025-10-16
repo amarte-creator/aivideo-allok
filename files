@@ -8,11 +8,11 @@ const SiteHeader = () => {
     <header>
       {/* Desktop CTA */}
       <Button asChild className="bg-lime-400 text-black hover:bg-lime-300">
-        <a href="https://wa.link/rc25na" target="_blank" rel="noopener noreferrer">Get a quote</a>
+        <a href="https://wa.me/584220023684" target="_blank" rel="noopener noreferrer">Get a quote</a>
       </Button>
       {/* Mobile sheet CTA */}
       <Button asChild className="mt-2 bg-lime-400 text-black hover:bg-lime-300">
-        <a href="https://wa.link/rc25na" target="_blank" rel="noopener noreferrer">Get a quote</a>
+        <a href="https://wa.me/584220023684" target="_blank" rel="noopener noreferrer">Get a quote</a>
       </Button>
       {/* rest of code here */}
     </header>
@@ -30,7 +30,7 @@ const Hero = () => {
     <section>
       {/* Hero content here */}
       <Button asChild className="rounded-full bg-lime-400 px-6 text-black hover:bg-lime-300">
-        <a href="https://wa.link/rc25na" target="_blank" rel="noopener noreferrer">Start a project</a>
+        <a href="https://wa.me/584220023684" target="_blank" rel="noopener noreferrer">Start a project</a>
       </Button>
       {/* rest of code here */}
     </section>
@@ -53,7 +53,7 @@ const Pricing = () => {
         className="rounded-full px-5 text-neutral-900 hover:brightness-95"
         style={{ backgroundColor: "#f2f2f2" }}
       >
-        <a href="https://wa.link/rc25na" target="_blank" rel="noopener noreferrer">Contact now</a>
+        <a href="https://wa.me/584220023684" target="_blank" rel="noopener noreferrer">Contact now</a>
       </Button>
       {/* rest of code here */}
     </section>

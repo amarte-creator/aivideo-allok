@@ -212,7 +212,7 @@ const defaultContent: ContentData = {
     },
   },
   orderForm: {
-    whatsappNumber: "+918384092211",
+    whatsappNumber: "+584220023684",
     modelingOptions: {
       simple: { price_usd: 35, price_inr: 3000, description: "Basic compositions, standard styles" },
       medium: { price_usd: 60, price_inr: 5000, description: "Detailed scenes, custom styling" },
@@ -232,7 +232,7 @@ const defaultContent: ContentData = {
     ],
   },
   settings: {
-    adminEmail: "admin@allok.fun",
+    adminEmail: "hi@allok.fun",
     adminPassword: "1234",
   },
 }
@@ -1604,7 +1604,7 @@ export default function AdminDashboard() {
               <CardContent className="space-y-4">
                 <div>
                   <p className="text-white font-medium">Email Support</p>
-                  <p className="text-neutral-400 text-sm">admin@theskitbit.com</p>
+                  <p className="text-neutral-400 text-sm">hi@allok.fun</p>
                 </div>
                 <div>
                   <p className="text-white font-medium">Response Time</p>

@@ -65,7 +65,7 @@ export default function CheckoutPage() {
 
   // Add state for order configuration
   const [orderConfig, setOrderConfig] = useState({
-    whatsappNumber: "+918384092211",
+    whatsappNumber: "+584220023684",
     modelingOptions: {
       simple: { price_usd: 35, price_inr: 3000, description: "Basic shapes, minimal details" },
       medium: { price_usd: 60, price_inr: 5000, description: "Moderate details, textures" },

@@ -5,8 +5,16 @@ import LazyVideo from "./lazy-video"
 export function Hero() {
   const buttonNew = (
     <Button asChild className="rounded-full bg-lime-400 px-6 text-black hover:bg-lime-300">
-      <a href="https://wa.link/rc25na" target="_blank" rel="noopener noreferrer">
+      <a href="https://wa.me/584220023684" target="_blank" rel="noopener noreferrer">
         Get Started
+      </a>
+    </Button>
+  )
+
+  const emailButton = (
+    <Button asChild variant="outline" className="rounded-full px-6 border-white/20 text-white hover:bg-white/10 bg-transparent">
+      <a href="mailto:hi@allok.fun">
+        Email Us
       </a>
     </Button>
   )
@@ -28,6 +36,7 @@ export function Hero() {
           </p>
           <div className="mt-6 flex gap-3">
             {buttonNew}
+            {emailButton}
             <Button
               asChild
               variant="outline"

@@ -41,13 +41,22 @@ export function AppverseFooter() {
     <section className="text-white">
       {/* Contact CTA */}
       <div className="container mx-auto px-4 pt-12 sm:pt-16">
-        <div className="flex justify-center">
+        <div className="flex justify-center gap-3">
           <Button
             asChild
             className="rounded-full bg-lime-400 px-6 py-2 text-sm font-medium text-black shadow-[0_0_20px_rgba(163,230,53,0.35)] hover:bg-lime-300"
           >
-            <a href="https://wa.link/rc25na" target="_blank" rel="noopener noreferrer">
-              Contact us
+            <a href="https://wa.me/584220023684" target="_blank" rel="noopener noreferrer">
+              WhatsApp
+            </a>
+          </Button>
+          <Button
+            asChild
+            variant="outline"
+            className="rounded-full px-6 py-2 text-sm font-medium border-white/20 text-white hover:bg-white/10 bg-transparent"
+          >
+            <a href="mailto:hi@allok.fun">
+              Email Us
             </a>
           </Button>
         </div>

@@ -90,7 +90,7 @@ export function SiteHeader() {
                                hover:bg-lime-300 hover:shadow-md hover:scale-[1.02]
                                transition-all"
                   >
-                    <Link href="https://wa.link/65mf3i">Get a Quote</Link>
+                    <Link href="https://wa.me/584220023684">Get a Quote</Link>
                   </Button>
                 </div>
               </SheetContent>

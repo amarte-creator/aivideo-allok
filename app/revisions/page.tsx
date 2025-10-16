@@ -64,8 +64,8 @@ export default function RevisionPolicyPage() {
                   <p className="text-neutral-300">For questions regarding our revision policy, please contact us at:</p>
                   <p className="text-neutral-300">
                     Email:{" "}
-                    <a href="mailto:hello@allok.fun" className="text-lime-300 underline">
-                      hello@allok.fun
+                    <a href="mailto:hi@allok.fun" className="text-lime-300 underline">
+                      hi@allok.fun
                     </a>
                   </p>
                 </section>
